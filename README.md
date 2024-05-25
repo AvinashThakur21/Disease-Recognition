@@ -5,7 +5,7 @@ install python extension
 pip install streamlit
 
 3.
-pip install tensorflow==2.14.0 keras==2.14.0
+pip install tensorflow==2.15.0 keras==2.15.0
 
 4.
 streamlit run /workspaces/Disease-Recognition/main.py
